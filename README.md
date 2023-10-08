@@ -1,2 +1,2 @@
 # Estudonauta-C#-Language
-Exercises made by me, proposed in the C# Language course at estudonauta.com, Using Visual Studio.
+Exercises of the Online Course by "Estudonauta" - basic knowledge of C#
